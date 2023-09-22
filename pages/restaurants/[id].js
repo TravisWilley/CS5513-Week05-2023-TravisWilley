@@ -1,5 +1,4 @@
-import Layout from '../components/layout';
-import { getAllIds, maxData } from '../lib/restData';
+import Layout from '../../components/layout';
 
 // define a getStaticProps() function to have next.js retrieve data to use for the dynamic page
 // - this name is defined by next.js
