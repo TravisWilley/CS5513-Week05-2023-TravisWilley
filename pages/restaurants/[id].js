@@ -1,4 +1,4 @@
-import Layout from '../../components/layout';
+/*import Layout from '../../components/layout';
 
 // define a getStaticProps() function to have next.js retrieve data to use for the dynamic page
 // - this name is defined by next.js
@@ -36,3 +36,4 @@ export default function Entry({ itemData }) {
     </Layout>
   );
 }
+*/
